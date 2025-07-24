@@ -1,0 +1,8 @@
+C:\Users\humbe\source\repos\App4\App4\bin\Debug\App4.exe.config
+C:\Users\humbe\source\repos\App4\App4\bin\Debug\App4.exe
+C:\Users\humbe\source\repos\App4\App4\bin\Debug\App4.pdb
+C:\Users\humbe\source\repos\App4\App4\obj\Debug\App4.csproj.AssemblyReference.cache
+C:\Users\humbe\source\repos\App4\App4\obj\Debug\App4.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\App4\App4\obj\Debug\App4.exe
+C:\Users\humbe\source\repos\App4\App4\obj\Debug\App4.pdb
+C:\Users\humbe\source\repos\App4\App4\obj\Debug\App4.exe.config
